@@ -1,9 +1,0 @@
-venv/
-.pylintrc
-__pacache__/
-
-.vscode
-.idea
-
-db.sqlite3
-media/
